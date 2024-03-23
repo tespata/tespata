@@ -21,9 +21,7 @@ Skills: JS / HTML / CSS / Photoshop / Illustrator /
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tespata&show_icons=true)  
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/tespata/contributions?format=svg&private=false)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tespata&show_icons=true)    
 
 ![GitHub metrics](https://metrics.lecoq.io/tespata)  
 
